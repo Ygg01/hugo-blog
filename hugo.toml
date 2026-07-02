@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://ygg01.github.io/blog/'
 title = "Ygg's horrible unsingable blog"
 theme = "hugo-bearblog"
 ignoreLogs = ['warning-goldmark-raw-html']
