@@ -3,6 +3,10 @@ title = "Ygg's horrible unsingable blog"
 theme = "hugo-bearblog"
 ignoreLogs = ['warning-goldmark-raw-html']
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [module]
 [[module.imports]]
 path = 'github.com/KKKZOZ/hugo-admonitions'
